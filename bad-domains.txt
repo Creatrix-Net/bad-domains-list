@@ -14742,7 +14742,6 @@ discords-to.com
 discords.biz
 discords.chat
 discords.co.uk
-discords.com
 discords.company
 discords.cool
 discords.dev
